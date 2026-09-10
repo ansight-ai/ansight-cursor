@@ -17,7 +17,7 @@ The plugin version tracks packaging independently of the CLI. The bundled workfl
 
 ## Install for local testing
 
-In Cursor, open **Customize → Plugins → Add → From Local Repository** and select this directory. The included marketplace manifest lets Cursor import this single plugin. Confirm the plugin details and install it.
+In Cursor, open **Customize → Plugins → Add → From Local Repository** and select a standalone Git checkout of this plugin. The directory must be its own Git repository with the plugin files committed: Cursor fetches that commit during installation. Selecting an uncommitted subdirectory of another repository can display the skill catalog but fail to install. The included marketplace manifest lets Cursor import this single plugin. Confirm the plugin details and install it.
 
 Alternatively, use Cursor’s local discovery directory:
 
