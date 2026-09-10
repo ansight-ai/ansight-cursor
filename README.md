@@ -22,14 +22,16 @@ In Cursor, open **Customize → Plugins → Add → From Local Repository** and 
 Alternatively, use Cursor’s local discovery directory:
 
 Copy this directory, including `.cursor-plugin`, to `~/.cursor/plugins/local/ansight`.
-On macOS or Linux, you can instead run this from the plugin directory:
+On macOS or Linux, run this from the plugin directory (with an unused destination):
 
 ```sh
 mkdir -p ~/.cursor/plugins/local
-ln -s "$PWD" ~/.cursor/plugins/local/ansight
+cp -R "$PWD" ~/.cursor/plugins/local/ansight
 ```
 
 If that destination already exists, inspect it before replacing anything. On Windows, copy this directory to `$HOME\.cursor\plugins\local\ansight`.
+
+Use a real directory for this method. Cursor 3.18.25 rejected a symlink whose target was outside `~/.cursor/plugins/local`, even though the online documentation showed a symlink example.
 
 Reload Cursor using **Developer: Reload Window**, then open **Customize** and confirm that Ansight and its skills appear. Teams and Enterprise administrators may need to enable **Allow Local Plugin Imports**. A marketplace installation with the same name takes precedence over a local plugin.
 
