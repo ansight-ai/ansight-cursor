@@ -1,0 +1,173 @@
+{
+  "source": "https://www.ansight.ai/skills",
+  "files": [
+    {
+      "source": "agents/ansight-annotate-session/SKILL.md",
+      "destination": "skills/ansight-annotate-session/SKILL.md",
+      "sourceSha256": "f3c24b27fc6238dab68be97f44753633b6956b6c661406ea3b1125503894b250",
+      "sha256": "c6aecad81267f97efed379716457b4e87c22336823e27c0a0c3980f77fef1d78"
+    },
+    {
+      "source": "agents/ansight-app-inspection.md",
+      "destination": "skills/ansight-app-inspection/SKILL.md",
+      "sourceSha256": "1713c2262aa68327bc5d67eb5534ff14a859db5ab6ce25b05a82dfd871640cab",
+      "sha256": "aff9501e890eb266b7c26cfce93a94827efea421bf801505b6e2dc8fdb9ec2f4"
+    },
+    {
+      "source": "android/ansight-app-inspection-android.md",
+      "destination": "skills/ansight-app-inspection-android/SKILL.md",
+      "sourceSha256": "140230650af17a26c2de70a3771d7974c6d7848b19d0f2a2122d5d17138e3356",
+      "sha256": "2a27364aecdb129c538a822852166ba181835338332de956171b6eea33734f1c"
+    },
+    {
+      "source": "cordova/ansight-app-inspection-cordova.md",
+      "destination": "skills/ansight-app-inspection-cordova/SKILL.md",
+      "sourceSha256": "ce60ba82d789812f794e716ac79458f032649451c1dd36e55ba13311535fffe0",
+      "sha256": "9fffc7ea8feffdf5693f810b1c1beb750f63e832668a4cdb80730c810c0b10c5"
+    },
+    {
+      "source": "dotnet/ansight-app-inspection-dotnet.md",
+      "destination": "skills/ansight-app-inspection-dotnet/SKILL.md",
+      "sourceSha256": "6b7694ad138644cbf41dc8c8b158fc5cfd2e51617b544b8fd2d0c38e4e1c971d",
+      "sha256": "ef2334d4ad8a6716b7fe51af79812736f19749b2fd8bf281a78ad65952f6a5b6"
+    },
+    {
+      "source": "flutter/ansight-app-inspection-flutter.md",
+      "destination": "skills/ansight-app-inspection-flutter/SKILL.md",
+      "sourceSha256": "65e5b6dd47a4459e7e38d5236550db9dba31237639587d90325888fb7b07fd51",
+      "sha256": "a542cc82b1e01ec45a73b3d315c5f0968fe8cdea7cef17cd473859c9d24c98e5"
+    },
+    {
+      "source": "ios/ansight-app-inspection-ios.md",
+      "destination": "skills/ansight-app-inspection-ios/SKILL.md",
+      "sourceSha256": "7e04e9db3caf4f81f689ef8892ca2f9c7883ae293fee98604c82dbdf9c2164a3",
+      "sha256": "de48acfcaeef0d5e34837dde0aff8b69a6e52b1b4b7837b50a241cb4cf9db7ac"
+    },
+    {
+      "source": "react-native/ansight-app-inspection-react-native.md",
+      "destination": "skills/ansight-app-inspection-react-native/SKILL.md",
+      "sourceSha256": "84b10238d85eb7b3ea4ed96e757238be05f3b7d8568c07540aa5917d4cb0ec0a",
+      "sha256": "008c4c54fac54fa4f0849ce3013107644ef0d96ae0621653e4cfc2601f4b5897"
+    },
+    {
+      "source": "agents/ansight-assess-automation-readiness/SKILL.md",
+      "destination": "skills/ansight-assess-automation-readiness/SKILL.md",
+      "sourceSha256": "92c45bed9b05cbe5c3a1136acca1ccd61ca607d70e5ef809abf127cbd059d2b1",
+      "sha256": "0dd18454b111da6f425d4b167502c7eca17409773b2a0f91c4dd99b340565fca"
+    },
+    {
+      "source": "agents/ansight-assess-automation-readiness/scripts/score_readiness.py",
+      "destination": "skills/ansight-assess-automation-readiness/scripts/score_readiness.py",
+      "sourceSha256": "53680648f34df71439762fe057ebcbf2c56a4b1ce2c36fa88f70c70d8e72a0e0",
+      "sha256": "53680648f34df71439762fe057ebcbf2c56a4b1ce2c36fa88f70c70d8e72a0e0"
+    },
+    {
+      "source": "ansight-cli-setup.md",
+      "destination": "skills/ansight-cli-setup/SKILL.md",
+      "sourceSha256": "538c1653a29f7f2c036b18442a72be3a2f7315ea57d5a0ad7b24131433d419ad",
+      "sha256": "2ade1e705d3e1d4cd9ad16a2291ca30d03d82c94218335537ec3c0b2648604b2"
+    },
+    {
+      "source": "android/ansight-create-remote-tool-android.md",
+      "destination": "skills/ansight-create-remote-tool-android/SKILL.md",
+      "sourceSha256": "8798b99b36342f3bb9210a2863608aef4759970feee1035ccacc72aaf45b20f1",
+      "sha256": "bc5161d9bd6279a0fe80968b2b604ed163c345e36c54fdbf84128aaae0127718"
+    },
+    {
+      "source": "cordova/ansight-create-remote-tool-cordova.md",
+      "destination": "skills/ansight-create-remote-tool-cordova/SKILL.md",
+      "sourceSha256": "6ca832b93d0e4781ddd4897354201d7c1de1d25cb3a0427e5ef73489fc27a4e1",
+      "sha256": "46add41a71844e8fe7284ffd064dfac2cad3604ade22b13ea34b4817a75af14a"
+    },
+    {
+      "source": "dotnet/ansight-create-remote-tool-dotnet.md",
+      "destination": "skills/ansight-create-remote-tool-dotnet/SKILL.md",
+      "sourceSha256": "db7ff1afff5455df398a7ba52565f8c75940f62332f19180abc941b57f9021d6",
+      "sha256": "29ecff61937996e56dc440509f6b4c7b823e45c0eee6aa54dca72a69d59567d9"
+    },
+    {
+      "source": "flutter/ansight-create-remote-tool-flutter.md",
+      "destination": "skills/ansight-create-remote-tool-flutter/SKILL.md",
+      "sourceSha256": "3e1da2036ed1759e19b9456cfbdbea3182a07a30828f436acc50c209177a7107",
+      "sha256": "2b4ffded38b109f3a24fd9404907924a2d7980bae109e4095c6fbfe55edd4157"
+    },
+    {
+      "source": "ios/ansight-create-remote-tool-ios.md",
+      "destination": "skills/ansight-create-remote-tool-ios/SKILL.md",
+      "sourceSha256": "e50d74f32e09bca198ab14aeda3ebd6e562a49cf71af4df4503290e71a2ae1e0",
+      "sha256": "2c25f1f00dd909deccf35981242b2605ec543e8c24cef3fbdf75dce19e05a46e"
+    },
+    {
+      "source": "react-native/ansight-create-remote-tool-react-native.md",
+      "destination": "skills/ansight-create-remote-tool-react-native/SKILL.md",
+      "sourceSha256": "36e90cabe89db973118504a756d5884b54c8c3871a7f10d598e27f33a4925954",
+      "sha256": "6a53a4302de97bea1d833444121456c3559ddc343887fadf3e2c112f5ba01b63"
+    },
+    {
+      "source": "ansight-install.md",
+      "destination": "skills/ansight-install/SKILL.md",
+      "sourceSha256": "b1b2be62e5c6066fff070dad534a4baefbf81422008b4f82bbfbd972cd6f6a01",
+      "sha256": "0889e2c774f2e839dfed80896b285124b966ae560889006794df7c77c9aec0ec"
+    },
+    {
+      "source": "android/ansight-install-android.md",
+      "destination": "skills/ansight-install-android/SKILL.md",
+      "sourceSha256": "2ab834c52c61b5e5b0e33e37c9416202e8fb674ec2afca6b7f75deb0e5f5e9b0",
+      "sha256": "057a046fcfa86b06788a8a5499f0e4efd2a3759d7af911a7b7367648e469ed69"
+    },
+    {
+      "source": "cordova/ansight-install-cordova.md",
+      "destination": "skills/ansight-install-cordova/SKILL.md",
+      "sourceSha256": "6aa6cccd16463b733dd583f8d31fba99556f279e633a313eba48f509a9a1190b",
+      "sha256": "7d3c3eaaeac9d6e5edd49d2bacb40b4d76a1b309a011fd7fb8027bc23d64e7df"
+    },
+    {
+      "source": "dotnet/ansight-install-dotnet.md",
+      "destination": "skills/ansight-install-dotnet/SKILL.md",
+      "sourceSha256": "46c02e496265ce3266995195ede98d28d1bb431ca751984198589dcefba797f2",
+      "sha256": "629a5cdb64cb91bbb7a67f06e8fe6c384a3b754e243320da99bb657285aa301c"
+    },
+    {
+      "source": "flutter/ansight-install-flutter.md",
+      "destination": "skills/ansight-install-flutter/SKILL.md",
+      "sourceSha256": "5e6f9e740665e534055af6a8740356e5948168082da251135f2e6fd4455186b8",
+      "sha256": "7bb600ba51199eaecf9366f6389237d7cacccf47b109a47ea0854fb0260eb2ed"
+    },
+    {
+      "source": "ios/ansight-install-ios.md",
+      "destination": "skills/ansight-install-ios/SKILL.md",
+      "sourceSha256": "fa363741af82eed7d360a7305e43b3288597cb43617723075102f47dac699022",
+      "sha256": "abaf9a5d564d42960d2185db644127c8be2dc80986d200f0d62ff2e9b9efe1b6"
+    },
+    {
+      "source": "react-native/ansight-install-react-native.md",
+      "destination": "skills/ansight-install-react-native/SKILL.md",
+      "sourceSha256": "41b63dfbfacda886de36e7bf88898f13518a538ac2f410c2589ba25b057c018f",
+      "sha256": "d10ca47a7c342e4cdf9398b851ff180cf4dab93f237169376840578df9426f87"
+    },
+    {
+      "source": "agents/ansight-investigate-session/SKILL.md",
+      "destination": "skills/ansight-investigate-session/SKILL.md",
+      "sourceSha256": "be542efcbdd3c15b0a77e949c971882b7c7ce0624bb0d542926788c8dec5b21b",
+      "sha256": "39fb37a4af0253c4657b5174c772d459b5b34d9746ffff484b5f5c00ed6fceb5"
+    },
+    {
+      "source": "agents/ansight-operate-live-app/SKILL.md",
+      "destination": "skills/ansight-operate-live-app/SKILL.md",
+      "sourceSha256": "06f221c04d3c0dae4399b2f71a90c988584ce55ef8aaa995623005f088715b9e",
+      "sha256": "636a5980705d0dc1bf5fd2a96c86f01d6c38b86d5e7f63764d4ec284a6905015"
+    },
+    {
+      "source": "agents/ansight-ui-testing/SKILL.md",
+      "destination": "skills/ansight-ui-testing/SKILL.md",
+      "sourceSha256": "cd1dde7b10ae8a4f4194b6c23ba7f1a6760147d21d8334a0c9cb8af2dd169ad8",
+      "sha256": "e482ffbab4e8151eaaffffd0d7cc50fd42e64243b60504182a351df0ae4a38d9"
+    },
+    {
+      "source": "agents/ansight-use-remote-app-tools/SKILL.md",
+      "destination": "skills/ansight-use-remote-app-tools/SKILL.md",
+      "sourceSha256": "b345c91256519a0943c70edbdd4f6ab04c4ca907b52252148dc4b3df2b44cfe3",
+      "sha256": "34895be4371abc64f7d49579f0f515ef38187e777720286ac8906a30fc205434"
+    }
+  ]
+}

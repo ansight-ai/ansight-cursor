@@ -1,0 +1,7 @@
+{
+  "name": "ansight-cursor",
+  "owner": { "name": "Ansight" },
+  "plugins": [
+    { "name": "ansight", "source": "." }
+  ]
+}

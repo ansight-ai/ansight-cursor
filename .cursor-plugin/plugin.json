@@ -1,0 +1,12 @@
+{
+  "name": "ansight",
+  "version": "0.1.0",
+  "description": "Inspect and debug mobile apps with Ansight CLI: runtime evidence, live UI, app tools, and repeatable tests.",
+  "author": { "name": "Ansight" },
+  "homepage": "https://www.ansight.ai",
+  "repository": "https://github.com/ansight-ai/ansight-cursor",
+  "license": "MIT",
+  "logo": "assets/icon.png",
+  "keywords": ["ansight", "mobile", "debugging", "testing", "ios", "android", "maui", "react-native", "flutter"],
+  "skills": "./skills/"
+}
